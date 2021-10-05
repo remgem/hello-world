@@ -1,1 +1,1 @@
-# hello-world  Хочу програмувати Дякую
+# hello-world  
